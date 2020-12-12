@@ -10,11 +10,11 @@ Creating a line should look like:
     </svg>
 *This should produce an SVG image that looks like this:*
 
-![SVG Line Example](svgline.png)
+![SVG Line Example](svgline.PNG)
 
 Another example of an SVG line is:
 
-![SVG Line](https://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/347_svg/tut/tut-images/line.png)
+![SVG Line](https://1stwebdesigner.com/wp-content/uploads/2014/01/line-svg.jpg)
 
 
 
